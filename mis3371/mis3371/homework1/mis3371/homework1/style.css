@@ -1,0 +1,21 @@
+/*
+Program name: style.css
+Author: Israa Wadif
+Date created: 2026
+Description: Styles for patient registration form
+*/
+
+body {
+    background-color: #eef3ff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: #003366;
+    text-align: center;
+}
+
+p {
+    color: #333333;
+    text-align: center;
+}
